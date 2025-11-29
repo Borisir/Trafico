@@ -1,0 +1,30 @@
+# Ignorar entorno virtual del backend
+backend/venv/
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+**/venv/
+
+# Flask
+instance/
+.env
+
+# Node / React
+node_modules/
+dist/
+build/
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
