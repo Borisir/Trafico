@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div>
-      <h1>Simulación de Onda de Tráfico</h1>
+      <h1>Simulación de Tráfico</h1>
       
       <div className="contenedor-principal">
         
@@ -94,7 +94,7 @@ function App() {
               </div>
             ))}
           </div>
-          <p>La distancia se mantiene segura automáticamente.</p>
+
         </div>
 
       </div>
